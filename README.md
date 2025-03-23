@@ -1,1 +1,1 @@
-# swift-sharing-firebase
+# sharing-firebase
