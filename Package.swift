@@ -22,7 +22,7 @@ let package = Package(
   ],
   dependencies: [
     .package(url: "https://github.com/pointfreeco/swift-identified-collections", from: "1.1.1"),
-    .package(url: "https://github.com/firebase/firebase-ios-sdk.git", from: "10.28.1"),
+    .package(url: "https://github.com/firebase/firebase-ios-sdk.git", from: "11.12.0"),
     .package(url: "https://github.com/pointfreeco/swift-dependencies", from: "1.6.4"),
     .package(url: "https://github.com/pointfreeco/swift-sharing", from: "2.3.0"),
   ],
